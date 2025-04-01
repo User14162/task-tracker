@@ -1,0 +1,88 @@
+/* src/days/day4/exercises/styles.css */
+
+/*
+ * CHALLENGE 3: Style the application
+ * 
+ * TODO: Add CSS styles to make the app look good
+ * Your styles should:
+ * 1. Style the overall app container
+ * 2. Style the headings
+ * 3. Style the task form (input and button)
+ * 4. Style the task items (consider using flexbox)
+ * 5. Style the task filter buttons
+ * 6. Add hover and active states
+ * 7. Make the design responsive
+ */
+
+/* Base styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  /* TODO: Add background color */
+}
+
+/* App container */
+.app {
+  /* TODO: Style the main app container (width, margin, padding, background, shadow, etc.) */
+}
+
+/* Headings */
+h1, h2 {
+  /* TODO: Style the headings */
+}
+
+/* Task Form */
+.task-form {
+  /* TODO: Style the form (hint: use flexbox to align the input and button) */
+}
+
+.task-form input {
+  /* TODO: Style the input field */
+}
+
+.task-form button {
+  /* TODO: Style the button */
+}
+
+/* TODO: Add hover state for the button */
+
+/* Task Filter */
+.task-filter {
+  /* TODO: Style the filter container */
+}
+
+.task-filter button {
+  /* TODO: Style the filter buttons */
+}
+
+/* TODO: Style the active filter button */
+
+/* TODO: Add hover state for filter buttons */
+
+/* Task List */
+.task-list {
+  /* TODO: Style the task list container */
+}
+
+/* Task Item */
+.task-item {
+  /* TODO: Style each task item (hint: use flexbox to align items) */
+}
+
+/* TODO: Add hover state for task items */
+
+.task-item span {
+  /* TODO: Style the task text */
+}
+
+.task-item button {
+  /* TODO: Style the delete button */
+}
+
+/* TODO: Add hover state for the delete button */
+
+/* Responsive design */
+@media (max-width: 480px) {
+  /* TODO: Add responsive styles for small screens */
+}
