@@ -21,7 +21,7 @@ By the end of this 4-day learning journey, you'll have built a complete Task Tra
 ### Setup Instructions
 1. Clone this repository
    ```
-   git clone https://github.com/yourusername/react-task-tracker.git
+   git clone https://github.com/User14162/react-task-tracker.git
    cd react-task-tracker
    ```
 
